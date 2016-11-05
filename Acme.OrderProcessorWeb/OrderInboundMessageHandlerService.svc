@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Acme.OrderProcessorWeb.OrderInboundMessageHandlerService" CodeBehind="OrderInboundMessageHandlerService.svc.cs" %>
